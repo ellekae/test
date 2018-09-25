@@ -1,9 +1,9 @@
 # Replace the text below to customize your site
 site_name: Fabricademy Student Website
 site_description: My Fabricademy site
-site_url: http://fibasile.fabcloud.io/mkdocs
-repo_url: https://gitlab.fabcloud.org/fibasile/mkdocs
-site_author: Student's Name
+site_url: http://class.textile-academy.org/2019/students/lucie.ketelsen
+repo_url: https://gitlab.fabcloud.org/academany/fabricademy/2019/students/lucie.ketelsen
+site_author: Lucie Ketelsen
 docs_dir: docs 
 site_dir: _site
 copyright: Preferably a copyleft ;-)
