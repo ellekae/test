@@ -1,6 +1,17 @@
 # 1. State of the art, project management and documentation
 
-This week I worked on defining my final project idea and started to getting used to the documentation process.
+We began the week with an introduction to Textile Academy and its values. 
+A core value which emerged from the presentation and subsequent sharing and discussion was that of equality - equality to question, to understand, to be safe from harm, to share, to create and to belong in a community.
+The ability to delineate a safe space within which to share values and information is crucial, thus setting up micro systems ourselves as students is vital. 
+
+Textile Academy and Fab Lab preference the use of Wiki as a means to share information due to its open structure and creative potential. 
+Wiki is an online database that provides means to present and link information collaboratively and effectively, in an equitable, secure way. 
+To engage with and contribute to a community of makers in the FabLab and Textile Academy networks, it makes sense to use wiki to create and share content. 
+
+In order to create my own wiki page, I initially needed to generate an SSH (secure shell) key. 
+SSH is an encryption protocal enabling secure communication across unsecure networks. 
+I secured my site by locally generating an SSH key via Terminal, and linking this to GitLab.
+I then familiarised myself with markdown syntax \:sparkles\ :sparkles
 
 ## Research
 
