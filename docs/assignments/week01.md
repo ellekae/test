@@ -1,8 +1,8 @@
 # 1. State of the art, project management and documentation
 
 We began the week with an introduction to Textile Academy and its values. 
-A core value which emerged from the presentation and subsequent sharing and discussion was that of equality - equality to question, to understand, to be safe from harm, to share, to create and to belong in a community.
-The ability to delineate a safe space within which to share values and information is crucial, thus setting up micro systems ourselves as students is vital. 
+A core value which emerged from the presentation and subsequent sharing and discussion was that of equality - establishing avenues to question, to understand and to be safe from harm/s (as pertains to environment, wellbeing, security), to share, to create and to belong in a community.
+The ability to delineate a safe space within which to share values and information is crucial, thus setting up micro systems ourselves as students is a logical first step. 
 
 Textile Academy and Fab Lab preference the use of Wiki as a means to share information due to its open structure and creative potential. 
 Wiki is an online database that provides means to present and link information collaboratively and effectively, in an equitable, secure way. 
