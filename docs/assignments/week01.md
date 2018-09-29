@@ -25,7 +25,7 @@ near-field coherent sensing’, Nature Electronics Vol. 1 JANUARY 2018, p74–78
 S. Waqar, L. Wang, S. John. 2015. ’Piezoelectric energy harvesting
 from intelligent textiles’ in Dias, T. 2015. Electronic Textiles. Elsevier: Amsterdam
 
-Z. Wang1, J.L. Volakis1, A. Kiourti. 2015. ‘Embroidered antennas for
+Wang Z, Volakis JL, Kiourti A. 2015. ‘Embroidered antennas for
 communication systems’ in Dias, T. 2015. Electronic Textiles. Elsevier: Amsterdam
 
 Yu F, Lyon KG, Kan EC. 2010. Harmonic Generation from Integrated Nonlinear Transmission Lines for
