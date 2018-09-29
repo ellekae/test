@@ -11,7 +11,7 @@ To engage with and contribute to a community of makers in the FabLab and Textile
 In order to create my own wiki page, I initially needed to generate an SSH (secure shell) key. 
 SSH is an encryption protocal enabling secure communication across unsecure networks. 
 I secured my site by locally generating an SSH key via Terminal, and linking this to GitLab.
-I then familiarised myself with markdown syntax \:sparkles\ :sparkles
+
 
 ## Research
 
