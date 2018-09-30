@@ -40,6 +40,7 @@ Moradi E, Koski K, Ukkonen L, Rahmat-Samii Y, Björninen T & Sydänheimo L. 2013
 
 Bianchi, M. ‘A Fabric-Based Approach for Wearable Haptics’ in Scilingo EP & Valenza G(Eds) 2017. Wearable Electronics and Embedded Computing Systems for Biomedical Applications. MDPI Journal: Switzerland. 
 
+Dieffenderfer J, Goodell H, Mills S, McKnight M, Yao S, Lin F, Beppler E, Bent B, Lee B, Misra V, Zhu Y, Oralkan O, Strohmaier J, Muth J, Peden D, & Bozkurt A. 2016. ‘Low-Power Wearable Systems for Continuous Monitoring of Environment and Health for Chronic Respiratory Disease’ in IEEE Journal of Biomedical and Health Informatics, Vol 20. No. 5. 
 
 ## Useful links
 
