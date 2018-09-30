@@ -71,7 +71,7 @@ void loop() {
 
 ## Gallery
 
-![](../images/sample-photo.jpg)
+![](https://gitlab.fabcloud.org/academany/fabricademy/2019/students/lucie.ketelsen/raw/master/docs/images/FA_FP-AV_sketch01.jpg)
 
 ## Video
 
