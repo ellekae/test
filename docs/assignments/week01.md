@@ -17,30 +17,35 @@ I secured my site by locally generating an SSH key via Terminal, and linking thi
 
 Relevant Texts
 
+Bianchi, M. ‘A Fabric-Based Approach for Wearable Haptics’ in Scilingo EP & Valenza G(Eds) 2017. Wearable Electronics and Embedded Computing Systems for Biomedical Applications. MDPI Journal: Switzerland. 
+
+Dieffenderfer J, Goodell H, Mills S, McKnight M, Yao S, Lin F, Beppler E, Bent B, Lee B, Misra V, Zhu Y, Oralkan O, Strohmaier J, Muth J, Peden D, & Bozkurt A. 2016. ‘Low-Power Wearable Systems for Continuous Monitoring of Environment and Health for Chronic Respiratory Disease’ in IEEE Journal of Biomedical and Health Informatics, Vol 20. No. 5. 
+
 Koski, E, Bjorninen, T, Koski K, Ali Babar A. 2012. “Fabrication of embroidered UHF RFID tags” Conference Paper presentated at  International Symposium (Digest) (IEEE Antennas and Propagation Society) · July 2012
+
+Haruki, Yutaka., Homma, Ikuo., Umezawa, Akio., & Masaoka, Yuri. (2001). Respiration and Emotion. Tokyo: Springer Japan : Imprint: Springer.
 
 Hui X & Kan EC. ‘Monitoring vital signs over multiplexed radio by
 near-field coherent sensing’, Nature Electronics Vol. 1 JANUARY 2018, p74–78  http://www.nature.com/natureelectronics
-
-S. Waqar, L. Wang, S. John. 2015. ’Piezoelectric energy harvesting
-from intelligent textiles’ in Dias, T. 2015. Electronic Textiles. Elsevier: Amsterdam
-
-Wang Z, Volakis JL, Kiourti A. 2015. ‘Embroidered antennas for
-communication systems’ in Dias, T. 2015. Electronic Textiles. Elsevier: Amsterdam
-
-Yu F, Lyon KG, Kan EC. 2010. Harmonic Generation from Integrated Nonlinear Transmission Lines for
-RFID Applications. School of Electrical and Computer Engineering. Cornell University: NY
-
-Suh, M. 2015. ‘Wearable sensors for athletes’ in Electronic Textiles. Elsevier: Amsterdam. 
 
 Kwon S, Kim H, Choi S, Jeong EG, Kim D, Lee S, Lee HS, Seo YC, and Choi KC. 2017. Weavable and Highly Efficient Organic Light-Emitting Fibers for
 Wearable Electronics: A Scalable, Low-Temperature Process. Nano Lett 2018, 18, 347−356. Available at [pubs.acs.org/NanoLett]
 
 Moradi E, Koski K, Ukkonen L, Rahmat-Samii Y, Björninen T & Sydänheimo L. 2013. Embroidered RFID Tags in Body-Centric Communication. International Workshop on Antenna Technology. 
 
-Bianchi, M. ‘A Fabric-Based Approach for Wearable Haptics’ in Scilingo EP & Valenza G(Eds) 2017. Wearable Electronics and Embedded Computing Systems for Biomedical Applications. MDPI Journal: Switzerland. 
+Suh, M. 2015. ‘Wearable sensors for athletes’ in Electronic Textiles. Elsevier: Amsterdam.
 
-Dieffenderfer J, Goodell H, Mills S, McKnight M, Yao S, Lin F, Beppler E, Bent B, Lee B, Misra V, Zhu Y, Oralkan O, Strohmaier J, Muth J, Peden D, & Bozkurt A. 2016. ‘Low-Power Wearable Systems for Continuous Monitoring of Environment and Health for Chronic Respiratory Disease’ in IEEE Journal of Biomedical and Health Informatics, Vol 20. No. 5. 
+Wang Z, Volakis JL, Kiourti A. 2015. ‘Embroidered antennas for
+communication systems’ in Dias, T. 2015. Electronic Textiles. Elsevier: Amsterdam
+
+Waqar S, Wang L, John S. 2015. ’Piezoelectric energy harvesting
+from intelligent textiles’ in Dias, T. 2015. Electronic Textiles. Elsevier: Amsterdam
+
+Yu F, Lyon KG, Kan EC. 2010. Harmonic Generation from Integrated Nonlinear Transmission Lines for
+RFID Applications. School of Electrical and Computer Engineering. Cornell University: NY
+
+
+
 
 ## Useful links
 
