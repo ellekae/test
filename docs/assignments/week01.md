@@ -19,7 +19,7 @@ The site is written in markdown syntax, edited in GitLab.
 
 ## Proposed Final Project
 
-The project proposes a wearable device which supports asthma treatment in children - a "Breathing Blanket"
+The project proposes a wearable device which supports asthma management in children - a "Breathing Blanket"
 
 ### Context
 
