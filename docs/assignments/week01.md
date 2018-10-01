@@ -76,13 +76,12 @@ Yu F, Lyon KG, Kan EC. 2010. Harmonic Generation from Integrated Nonlinear Trans
 RFID Applications. School of Electrical and Computer Engineering. Cornell University: NY
 
 
-
-
 ## Useful links
 
-- [Jekyll](http://jekyll.org)
-- [Google](http://google.com)
-- [Markdown](https://en.wikipedia.org/wiki/Markdown)
+- [Story Clip](http://highlowtech.org/?p=2923)
+- [RFID yarn](http://www.primo1d.com/)
+- [Monitor vital signs without touching patients](https://techxplore.com/news/2017-11-vital-patients.html)
+- [Embodied Anatomy: Breathing and the Lobes of the Lungs](https://www.youtube.com/watch?v=PboR4r0Oawc)
 
 
 ## Code Example
