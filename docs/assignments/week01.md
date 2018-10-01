@@ -29,16 +29,21 @@ Asthma is the most chronic disease amongst children.
 There are many treatments for asthma the disease based on solid medical research, however the felt experience of a child in hospital has perhaps received less attention. 
 Often children being treated for asthma will be asked to patiently endure protracted periods of time in hospital in a tangle of tubes, cords and wires.
 The issue of how to monitor vital signs unobtrusively is currently being addressed by many in the field of wearable technology. 
-A further benefit to employing wearable technologies in the treatment of asthma is throught an increased capacity for self-managment. 
+In addition to the benefits of employing wearable technologies in the treatment of asthma in medical contexts is through an increased capacity for self-management. 
 As Daines (2016) states, supported self-management is a key component of asthma care. 
+Asthma management in practice can be a hybrid of various approaches and strategies, pieced together around a core care for a patient and their ability to breathe freely. 
 
 The project seeks to understand in what ways the design of wearable tech can support in making asthma management and self-care more straight-forward for caregivers and more enjoyable for children.
 
 ### Design
 
+The blanket is comprised of quilted upcycled silk remnants.  
 The back panel of the garment is embroidered with an RFID tag which monitors and transmits data related to the breathing of the wearer unobtrusively.
 The blanket will harvest energy from the excursion of the lungs. 
-The blanket incorporates an interactive component featuring simple circuits 
+The blanket incorporates an interactive component featuring simple circuits which encourage tactile, sensory play. 
+These simple circuits are located to the left and right hand sides of the blanket such that when the blanket is worn as a vest, the circuits sit where the hands naturally fall/lie. 
+At this stage it is preferable to leave detailed specifics to emerge from further experimentation and prototyping activities. 
+The design envisages an artefact that connects with the body such as to ascertain specific data related to breathing, however simultaneously will allow for a subjective experience of breathing to be explored and authored. 
 
 ![](https://gitlab.fabcloud.org/academany/fabricademy/2019/students/lucie.ketelsen/raw/master/docs/images/FA_FP-AV_sketch01.jpg)
 
