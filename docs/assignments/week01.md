@@ -21,6 +21,8 @@ Bianchi, M. ‘A Fabric-Based Approach for Wearable Haptics’ in Scilingo EP & 
 
 Dieffenderfer J, Goodell H, Mills S, McKnight M, Yao S, Lin F, Beppler E, Bent B, Lee B, Misra V, Zhu Y, Oralkan O, Strohmaier J, Muth J, Peden D, & Bozkurt A. 2016. ‘Low-Power Wearable Systems for Continuous Monitoring of Environment and Health for Chronic Respiratory Disease’ in IEEE Journal of Biomedical and Health Informatics, Vol 20. No. 5. 
 
+Kettley, S. 2006. Designing with Smart Textiles. Bloomsbury: London
+
 Koski, E, Bjorninen, T, Koski K, Ali Babar A. 2012. “Fabrication of embroidered UHF RFID tags” Conference Paper presentated at  International Symposium (Digest) (IEEE Antennas and Propagation Society) · July 2012
 
 Haruki, Yutaka., Homma, Ikuo., Umezawa, Akio., & Masaoka, Yuri. (2001). Respiration and Emotion. Tokyo: Springer Japan : Imprint: Springer.
