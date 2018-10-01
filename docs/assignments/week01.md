@@ -37,11 +37,12 @@ The project seeks to understand in what ways the design of wearable tech can sup
 
 ### Design
 
-The blanket is comprised of quilted upcycled silk remnants.  
+The blanket is comprised of quilted upcycled silk remnants. Armholes are cut and frey-checked on the textile surface using steil-stitch digital embroidery. 
+This makes the blanket a piece which can be handled or worn in various ways, or worn as a vest that drapes like a cape.  
 The back panel of the garment is embroidered with an RFID tag which monitors and transmits data related to the breathing of the wearer unobtrusively.
-The blanket will harvest energy from the excursion of the lungs. 
-The blanket incorporates an interactive component featuring simple circuits which encourage tactile, sensory play. 
+The blanket will harvest energy from the excursion of the lungs. In addition the blanket incorporates interactive components featuring simple circuits which encourage tactile, sensory play. 
 These simple circuits are located to the left and right hand sides of the blanket such that when the blanket is worn as a vest, the circuits sit where the hands naturally fall/lie. 
+
 At this stage it is preferable to leave detailed specifics to emerge from further experimentation and prototyping activities. 
 The design envisages an artefact that connects with the body such as to ascertain specific data related to breathing, however simultaneously will allow for a subjective experience of breathing to be explored and authored. 
 
