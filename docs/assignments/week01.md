@@ -1,19 +1,46 @@
 # 1. State of the art, project management and documentation
 
 We began the week with an introduction to Textile Academy and its values. 
-A core value which emerged from the presentation and subsequent sharing and discussion was that of equality - establishing avenues to question, to understand and to be safe from harm/s (as pertains to environment, wellbeing, security), to share, to create and to belong in a community.
-The ability to delineate a safe space within which to share values and information is crucial, thus setting up micro systems ourselves as students is a logical first step. 
+A core value which emerged from the presentation and subsequent sharing and discussion was that of equality. Allowing for the emergence of equatable relationships involves establishing avenues to question, to understand and to be safe from harm/s (as pertains to environment, wellbeing and security) so as to delineate space within which to safely share, create and belong in a community.
+The ability to delineate a safe space within which to share values and information is crucial, thus setting up micro systems that link to macro structures is a logical first step. 
 
 Textile Academy and Fab Lab preference the use of Wiki as a means to share information due to its open structure and creative potential. 
 Wiki is an online database that provides means to present and link information collaboratively and effectively, in an equitable, secure way. 
-To engage with and contribute to a community of makers in the FabLab and Textile Academy networks, it makes sense to use wiki to create and share content. 
+To engage with and contribute to a community of makers in the FabLab and Textile Academy networks, wiki is used to create and share content. 
 
-In order to create my own wiki page, I initially needed to generate an SSH (secure shell) key. 
+Content is shared across local and global networks through wiki, thus democratising information and its dissemination. 
+Research is conducted transparently, referenced and documented thoroughly and shared across networks.
+
+In order to create a new site, it is necessary to generate an SSH (secure shell) key. 
 SSH is an encryption protocal enabling secure communication across unsecure networks. 
-I secured my site by locally generating an SSH key via Terminal, and linking this to GitLab.
+The site was secured by locally generating an SSH key via Terminal, and linking this to GitLab.
+The site is written in markdown syntax, edited in GitLab. 
 
 
-## Research
+## Proposed Final Project
+
+The project proposes a wearable device which supports asthma treatment in children - a "Breathing Blanket"
+
+### Context
+
+According to the World Health Organisation (2008), Asthma affects over 235 million people worldwide, with the director general warning that Asthma is on the rise everywhere. 
+Asthma is the most chronic disease amongst children. 
+
+There are many treatments for asthma the disease based on solid medical research, however the felt experience of a child in hospital has perhaps received less attention. 
+Often children being treated for asthma will be asked to patiently endure protracted periods of time in hospital in a tangle of tubes, cords and wires.
+The issue of how to monitor vital signs unobtrusively is currently being addressed by many in the field of wearable technology. 
+A further benefit to employing wearable technologies in the treatment of asthma is throught an increased capacity for self-managment. 
+As Daines (2016) states, supported self-management is a key component of asthma care. 
+
+The project seeks to understand in what ways the design of wearable tech can support in making asthma management and self-care more straight-forward for caregivers and more enjoyable for children.
+
+### Design
+
+The back panel of the garment is embroidered with an RFID tag which monitors and transmits data related to the breathing of the wearer unobtrusively.
+The blanket will harvest energy from the excursion of the lungs. 
+The blanket incorporates an interactive component featuring simple circuits 
+
+## Supporting Research & Community of Practice
 
 Relevant Texts
 
