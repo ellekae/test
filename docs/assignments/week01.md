@@ -40,6 +40,8 @@ The back panel of the garment is embroidered with an RFID tag which monitors and
 The blanket will harvest energy from the excursion of the lungs. 
 The blanket incorporates an interactive component featuring simple circuits 
 
+![](https://gitlab.fabcloud.org/academany/fabricademy/2019/students/lucie.ketelsen/raw/master/docs/images/FA_FP-AV_sketch01.jpg)
+
 ## Supporting Research & Community of Practice
 
 Relevant Texts
@@ -106,7 +108,7 @@ void loop() {
 
 ## Gallery
 
-![](https://gitlab.fabcloud.org/academany/fabricademy/2019/students/lucie.ketelsen/raw/master/docs/images/FA_FP-AV_sketch01.jpg)
+
 
 ## Video
 
